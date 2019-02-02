@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Herbs Benfits",
+  "short_name": "Herbs Benfits",
+  "version": "io.cordova.hellocordova",
+  "description": "Herbs and their benefits.",
+  "author": "Irfan Razzaq",
+  "icons": [],
+  "start_url": "index.html"
+}
